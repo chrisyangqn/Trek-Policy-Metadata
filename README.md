@@ -1,4 +1,4 @@
-# Policy Metadata Extractor
+# Policy Metadata Loader
 
 This script extracts metadata from a **local PDF** using OpenAI’s Assistant API and uploads it to a **Snowflake** table.
 
